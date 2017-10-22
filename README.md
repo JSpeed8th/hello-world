@@ -1,5 +1,4 @@
 # hello-world
-Starter Repository!
 
 Good Day!
 
